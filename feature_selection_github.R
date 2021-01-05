@@ -1,3 +1,5 @@
+# feature selection for each of the 5 feature combinations
+
 # libraries needed
 library(glmnet)
 library(caret)
